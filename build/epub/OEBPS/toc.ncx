@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+<head>
+<meta name="dtb:uid" content="Techno Rebels"/>
+<meta name="dtb:depth" content="1"/>
+<meta name="dtb:totalPageCount" content="164"/>
+<meta name="dtb:maxPageNumber" content="176"/>
+</head>
+<docTitle>
+<text>Techno Rebels</text>
+</docTitle>
+<navMap>
+<navPoint id="a001" playOrder="1"><navLabel><text>Cover</text></navLabel><content src="html/cover.html"/></navPoint>
+<navPoint id="a003" playOrder="2"><navLabel><text>Copyright</text></navLabel><content src="html/9780814337127_03_cpy.html"/></navPoint>
+<navPoint id="a002" playOrder="3"><navLabel><text>Title Page</text></navLabel><content src="html/9780814337127_02_tit.html"/></navPoint>
+<navPoint id="a005" playOrder="4"><navLabel><text>Contents</text></navLabel><content src="html/9780814337127_04_toc.html"/></navPoint>
+<navPoint id="for" playOrder="5"><navLabel><text>Foreword by Bill Brewster</text></navLabel><content src="html/9780814337127_05_for.html"/></navPoint>
+<navPoint id="pre" playOrder="6"><navLabel><text>Preface</text></navLabel><content src="html/9780814337127_06_pre.html"/></navPoint>
+<navPoint id="ch01" playOrder="7"><navLabel><text>1. Welcome to the Machine</text></navLabel><content src="html/9780814337127_07_ch01.html"/></navPoint>
+<navPoint id="ch02" playOrder="8"><navLabel><text>2. Party Out of Bounds</text></navLabel><content src="html/9780814337127_08_ch02.html"/></navPoint>
+<navPoint id="ch03" playOrder="9"><navLabel><text>3. Time to Express</text></navLabel><content src="html/9780814337127_09_ch03.html"/></navPoint>
+<navPoint id="ch04" playOrder="10"><navLabel><text>4. Nation to Nation</text></navLabel><content src="html/9780814337127_10_ch04.html"/></navPoint>
+<navPoint id="ch05" playOrder="11"><navLabel><text>5. Off to Battle</text></navLabel><content src="html/9780814337127_11_ch05.html"/></navPoint>
+<navPoint id="ch06" playOrder="12"><navLabel><text>6. Applied Technology</text></navLabel><content src="html/9780814337127_12_ch06.html"/></navPoint>
+<navPoint id="ch07" playOrder="13"><navLabel><text>7. Beyond the Dance</text></navLabel><content src="html/9780814337127_13_ch07.html"/></navPoint>
+<navPoint id="not" playOrder="14"><navLabel><text>Notes</text></navLabel><content src="html/9780814337127_14_not.html"/></navPoint>
+<navPoint id="ind" playOrder="15"><navLabel><text>Index</text></navLabel><content src="html/9780814337127_15_ind.html"/></navPoint>
+</navMap>
+</ncx>
